@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83759af5-0cb6-4e99-a67f-af589d3c4d0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="goldendemon@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="goldendemon@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="goldendemon@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="goldendemon: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="goldendemon@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="goldendemon: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="goldendemon@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="goldendemon: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="goldendemon@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="goldendemon: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ProjectId" id="1VV1eVJhz6HkvoLKzUA9yzJFiPT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="$USER_HOME$/.nvm/versions/node/v13.5.0/bin/node" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components" />
+      <recent name="$PROJECT_DIR$/components/shared/ProTip" />
+      <recent name="$PROJECT_DIR$/components/shared" />
+      <recent name="$PROJECT_DIR$/components/shared/Link" />
+      <recent name="$PROJECT_DIR$/components/shared/Nav" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/shared/Layout" />
+      <recent name="$PROJECT_DIR$/with-apollo/pages/admin" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/with-apollo/pages" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="      " />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83759af5-0cb6-4e99-a67f-af589d3c4d0e" name="Default Changelist" comment="" />
+      <created>1577323543506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577323543506</updated>
+      <workItem from="1577323544679" duration="2930000" />
+      <workItem from="1577362470832" duration="18000" />
+      <workItem from="1577362541730" duration="5000" />
+      <workItem from="1577362713851" duration="75000" />
+      <workItem from="1577362852023" duration="542000" />
+      <workItem from="1577363435885" duration="31000" />
+      <workItem from="1577363481405" duration="1275000" />
+      <workItem from="1577364899309" duration="5580000" />
+      <workItem from="1577380658509" duration="16693000" />
+      <workItem from="1577485860775" duration="439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3435" y="367" width="800" height="675" key="#ESLint" timestamp="1577472545312">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3435" y="367" width="800" height="675" key="#ESLint/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1577472545312" />
+    <state x="3573" y="455" width="524" height="499" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577486248140">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3573" y="455" width="524" height="499" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1577486248140" />
+    <state x="3623" y="464" width="576" height="823" key="FileChooserDialogImpl" timestamp="1577475669230">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3623" y="464" width="576" height="823" key="FileChooserDialogImpl/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1577475669230" />
+    <state x="3036" y="108" width="1565" height="1148" key="SettingsEditor" timestamp="1577363029168">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3036" y="108" width="1565" height="1148" key="SettingsEditor/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1577363029168" />
+    <state x="3451" y="381" width="740" height="448" key="cloudConfig.SelfSettingsDialog" timestamp="1577362943905">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3451" y="381" width="740" height="448" key="cloudConfig.SelfSettingsDialog/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1577362943905" />
+    <state x="2956" y="253" width="1599" height="1070" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1577402189522">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2956" y="253" width="1599" height="1070" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1577402189522" />
+    <state x="2660" y="99" width="2360" height="1214" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577389568828">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2660" y="99" width="2360" height="1214" key="com.intellij.history.integration.ui.views.FileHistoryDialog/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1577389568828" />
+    <state x="2885" y="122" width="1898" height="1158" key="find.popup" timestamp="1577378585729">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2885" y="122" width="1898" height="1158" key="find.popup/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1577378585729" />
+    <state x="3504" y="330" key="run.anything.popup" timestamp="1577465808021">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3504" y="330" key="run.anything.popup/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1577465808021" />
+    <state x="3503" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1577405394099">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3503" y="321" width="672" height="678" key="search.everywhere.popup/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1577405394099" />
+  </component>
+</project>
